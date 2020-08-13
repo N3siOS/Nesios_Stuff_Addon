@@ -2,6 +2,7 @@
 
 ![version](https://img.shields.io/badge/Version-1.0.0-success)
 ![progress](https://img.shields.io/badge/Progress-90%25-informational)
+![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.16.2-success)
 
 Resource pack for Minecraft Java Edition that modifies only basic weapons and tools.
 
