@@ -26,6 +26,10 @@ Resource pack for Minecraft Java Edition that modifies only basic weapons and to
 
 Go to [Release page](https://github.com/N3siOS/Nesios_Stuff_Addon/releases) or on [Planet Minecraft site](https://www.planetminecraft.com/texture-pack/nesios-better-stuff/).
 
+### Installation
+
+To use the add-on you just have to drag it into your resource pack folder, then in game place it at the top of your selected pack list.
+
 ### Project tracking
 
 Task Board :  [Trello](https://trello.com/b/YKjshhmy/public-task-board) 
