@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_sword"
+    },
+	"overrides": [
+        {
+            "predicate": {
+                "damage": 0.25
+            },
+            "model": "item/stone_sword_damaged_0"
+        },
+        {
+            "predicate": {
+                "damage": 0.5
+            },
+            "model": "item/stone_sword_damaged_1"
+        },
+        {
+            "predicate": {
+                "damage": 0.75
+            },
+            "model": "item/stone_sword_damaged_2"
+        }
+    ]
+}

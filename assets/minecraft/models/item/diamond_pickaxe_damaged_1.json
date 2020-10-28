@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Nesios",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_pickaxe_damaged_1"
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Nesios",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_shovel_damaged_1"
+    }
+}
