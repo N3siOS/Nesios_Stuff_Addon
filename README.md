@@ -13,6 +13,9 @@ Resource pack for Minecraft Java Edition that modifies only basic weapons and to
 - Addition of the degradation of weapons and tools.
 - Redesign textures of tools/weapons.
 - Change color of enchanted glint effect.
+
+### Upcoming additions
+
 - Redesign Texture of Armor.
 
 ### Download
