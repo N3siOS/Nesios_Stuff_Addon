@@ -1,4 +1,4 @@
-# Nesios Stuff Addon Pre 1.1.6
+# Nesios Stuff Addon Pre 1.1.6b
 
 Resource pack for Minecraft Java Edition that modifies only basic weapons and tools.
 
@@ -17,7 +17,8 @@ To use the add-on you just have to drag it into your resource pack folder, then 
 
 - Task Board : [Trello](https://trello.com/b/YKjshhmy/public-task-board)
 
-- Discuss 1.1.6 version : [Github](https://github.com/N3siOS/Nesios_Stuff_Addon/discussions/3)
+- Discuss 1.1.6 version : [Github](https://github.com/N3siOS/Nesios_Stuff_Addon/discussions/)
+
 ### License
 
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
