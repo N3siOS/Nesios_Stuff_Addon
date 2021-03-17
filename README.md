@@ -1,8 +1,8 @@
 # Nesios Stuff Addon
 
 ![version](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?label=Last%20version)
-![progress](https://img.shields.io/badge/v1.1.6%20Progress-75%25-blueviolet)
-![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.16.4-inactive)
+![progress](https://img.shields.io/badge/v1.1.6%20Progress-100%25-blueviolet)
+![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.16.5-inactive)
 
 
 Resource pack for Minecraft Java Edition that modifies only basic weapons and tools.
