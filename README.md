@@ -1,6 +1,6 @@
-# Nesios Stuff Addon Pre 1.1.6b
+# Nesios Stuff Addon 1.3
 
-Resource pack for Minecraft Java Edition that modifies only basic weapons and tools.
+Resource pack for Minecraft Java Edition 1.16 that modifies only basic weapons and tools.
 
 ### List of additions
 
@@ -8,6 +8,8 @@ Resource pack for Minecraft Java Edition that modifies only basic weapons and to
 - Redesign textures of tools/weapons.
 - Change color of enchanted glint effect.
 - Redesign Texture of Armor.
+- Redesign Bucket.
+- Redesign Trident.
 
 ### Installation
 
@@ -17,7 +19,7 @@ To use the add-on you just have to drag it into your resource pack folder, then 
 
 - Task Board : [Trello](https://trello.com/b/YKjshhmy/public-task-board)
 
-- Discuss 1.1.6 version : [Github](https://github.com/N3siOS/Nesios_Stuff_Addon/discussions/)
+- Discuss 1.3 version : [Github](https://github.com/N3siOS/Nesios_Stuff_Addon/discussions/)
 
 ### License
 
