@@ -9,6 +9,7 @@ Resource pack for Minecraft Java Edition 1.18 that modifies only basic weapons a
 - Change color of enchanted glint effect.
 - Redesign Texture of Armor.
 - Redesign Bucket.
+- Redesign Trident.
 
 ### Installation
 
