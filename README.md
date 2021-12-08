@@ -1,6 +1,6 @@
-# Nesios Stuff Addon 1.2.1 downgrade 1.3
+# Nesios Stuff Addon 1.1.7 downgrade 1.3
 
-Resource pack for Minecraft Java Edition 1.17 that modifies only basic weapons and tools.
+Resource pack for Minecraft Java Edition 1.16 that modifies only basic weapons and tools.
 
 ### List of additions
 
