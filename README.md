@@ -2,14 +2,34 @@
 
 Resource pack for Minecraft Java Edition 1.18 that modifies only basic weapons and tools.
 
-### List of additions
+### List of changes
 
-- Addition of the degradation of weapons and tools.
-- Redesign textures of tools/weapons.
+- Added a degradation system for tools and weapons.
 - Change color of enchanted glint effect.
-- Redesign Texture of Armor.
-- Redesign Bucket.
-- Redesign Trident.
+
+Redesign of textures for :
+
+- Swords
+- Pickaxes
+- Axes
+- Shovels
+- Hoes
+- Fishing rod
+- Flint and steel
+- Bow
+- Crossbow
+- Arrows (texture and model)
+- Spectral Arrow (texture and model)
+- Tipped arrows (texture and model)
+- Shears
+- Buckets
+- Trident
+- Clock
+- Netherite armor
+- Diamond armor
+- Iron armor
+- Golden armor
+- Turtle Helmet
 
 ### Installation
 
