@@ -1,6 +1,6 @@
 # Nesios Stuff Addon 1.3.1
 
-Resource pack for Minecraft Java Edition 1.18 that modifies only basic weapons and tools.
+Resource pack for Minecraft Java Edition 1.19 that modifies only basic weapons and tools.
 
 ### List of changes
 
