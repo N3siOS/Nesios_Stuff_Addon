@@ -23,21 +23,5 @@
             },
             "model": "item/diamond_pickaxe_damaged_2"
         }
-    ],
-	"display": {
-		"ground": {
-			"rotation": [-86, 0, 0],
-			"translation": [0, -3, 0]
-		},
-		"gui": {
-			"translation": [-0.75, -0.25, 0]
-		},
-		"head": {
-			"rotation": [0, 0, 13.5],
-			"translation": [-1.5, -14, 4.25]
-		},
-		"fixed": {
-			"translation": [0, 0.25, 0]
-		}
-	}
+    ]
 }
