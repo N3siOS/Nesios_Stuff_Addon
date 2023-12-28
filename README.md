@@ -1,35 +1,18 @@
-# Nesios Stuff Addon 1.3.1
+# Nesios Stuff Addon 1.4
 
-Resource pack for Minecraft Java Edition 1.18 that modifies only basic weapons and tools.
+Resource pack for Minecraft Java Edition 1.20 that modifies only basic weapons and tools.
 
-### List of changes
+### List of additions
 
-- Added a degradation system for tools and weapons.
+- Addition of the degradation of weapons and tools.
+- Redesign textures of tools/weapons.
 - Change color of enchanted glint effect.
-
-Redesign of textures for :
-
-- Swords
-- Pickaxes
-- Axes
-- Shovels
-- Hoes
-- Fishing rod
-- Flint and steel
-- Bow
-- Crossbow
-- Arrows (texture and model)
-- Spectral Arrow (texture and model)
-- Tipped arrows (texture and model)
-- Shears
-- Buckets
-- Trident
-- Clock
-- Netherite armor
-- Diamond armor
-- Iron armor
-- Golden armor
-- Turtle Helmet
+- Redesign Texture of Armor.
+- Redesign Bucket.
+- Redesign Trident.
+- Redesign Brush.
+- Add 3D model for firework rocket.
+- Add 3D model for torch, redstone torch and soul torch.
 
 ### Installation
 
@@ -37,9 +20,9 @@ To use the add-on you just have to drag it into your resource pack folder, then 
 
 ### Project tracking
 
-- Task Board : [Trello](https://trello.com/b/YKjshhmy/public-task-board)
+- Task Board : [Github Project](https://github.com/users/N3siOS/projects/4/views/1)
 
-- Discuss 1.3 version : [Github](https://github.com/N3siOS/Nesios_Stuff_Addon/discussions/)
+- Discuss 1.4 version : [Github](https://github.com/N3siOS/Nesios_Stuff_Addon/discussions/)
 
 ### License
 
